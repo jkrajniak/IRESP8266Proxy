@@ -2,6 +2,7 @@ Simple Web interface to control your audio set via web interface.
 
 Components:
  - ESP8266
+ - TSOP 4836 ir receiver
 
 IR codes for Philips MC260
 
